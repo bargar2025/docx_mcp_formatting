@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Venv
+.venv/
+.env/
+
+# VCS
+.git/
+.gitignore
+
+# Node
+inspector/node_modules/
+
+# VS Code
+.vscode/
+
+# Others
+.aitk/
+*.log
